@@ -1211,20 +1211,55 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7542906510521947027, guid: f59982294e4aec44fa299bbf122bb0ca,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: -7408329355119604493, guid: f59982294e4aec44fa299bbf122bb0ca,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: -5503970918788571733, guid: f59982294e4aec44fa299bbf122bb0ca,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: e8fec423c8641a84ea9220a6df288a53, type: 2}
+      objectReference: {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+    - target: {fileID: -3033794102924925750, guid: f59982294e4aec44fa299bbf122bb0ca,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: -2630524480750688891, guid: f59982294e4aec44fa299bbf122bb0ca,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: e8fec423c8641a84ea9220a6df288a53, type: 2}
+    - target: {fileID: -122828261115192467, guid: f59982294e4aec44fa299bbf122bb0ca,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 204559701495524675, guid: f59982294e4aec44fa299bbf122bb0ca,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: f59982294e4aec44fa299bbf122bb0ca,
         type: 3}
       propertyPath: m_Name
       value: Aluy Bespin
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f59982294e4aec44fa299bbf122bb0ca,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1143238392761963169, guid: f59982294e4aec44fa299bbf122bb0ca,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8851388063510890226, guid: f59982294e4aec44fa299bbf122bb0ca,
         type: 3}
