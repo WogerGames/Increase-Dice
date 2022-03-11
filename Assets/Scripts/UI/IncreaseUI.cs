@@ -83,7 +83,7 @@ public class IncreaseUI : MonoBehaviour
             labelIncrease.SetActive(false);
             labelTimeElapsed.gameObject.SetActive(true);
         }
-        else
+        else if(!increaseProgress)
         {
             btnIncrease.interactable = true;
             labelIncrease.SetActive(true);
