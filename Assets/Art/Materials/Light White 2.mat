@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Light White
+  m_Name: Light White 2
   m_Shader: {fileID: 4800000, guid: 933532a4fcc9baf4fa0491de14d08ed7, type: 3}
   m_ShaderKeywords: _EMISSION
   m_LightmapFlags: 2
@@ -107,7 +107,7 @@ Material:
     m_Colors:
     - _BaseColor: {r: 0.9009434, g: 1, b: 0.97508395, a: 1}
     - _Color: {r: 0.9009434, g: 1, b: 0.97508395, a: 1}
-    - _EmissionColor: {r: 115.45098, g: 191.74902, b: 161.63138, a: 1}
+    - _EmissionColor: {r: 57.72549, g: 95.87451, b: 80.81569, a: 1}
     - _SpecColor: {r: 0.2, g: 0.2, b: 0.2, a: 1}
   m_BuildTextureStacks: []
 --- !u!114 &8967769083242181909
